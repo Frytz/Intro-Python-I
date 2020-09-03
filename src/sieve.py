@@ -26,4 +26,4 @@ def sieve_of_Eratosthenes(n):
         if prime: print(i+2)
     print("time: %0.5f"%(end_time-start_time))
 
-sieve_of_Eratosthenes(1000000)
+sieve_of_Eratosthenes(1000)
